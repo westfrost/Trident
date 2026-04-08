@@ -1,5 +1,4 @@
-[gcode_macro CLEAN_BRUSH]
-
+[gcode_macro NOZZLEBRUSH]
 gcode:
     {% set BRUSH_X_MIN = 229 %}
     {% set BRUSH_X_MAX = 260 %}
